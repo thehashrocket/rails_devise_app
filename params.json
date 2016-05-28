@@ -1,0 +1,6 @@
+{
+  "name": "Rails Devise App",
+  "tagline": "Rails App With Devise. Supports Admin and Users. ",
+  "body": "== Rails with Devise\r\n\r\nRails app with devise integration. Supports Admin Users plus User Users.\r\n\r\nMIT License\r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
